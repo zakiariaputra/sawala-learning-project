@@ -26,7 +26,7 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 
 - [x] 01. Variabel & Tipe Data &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Minggu 1-2
 - [x] 02. Kondisi & Function
-- [ ] 03. Object & Array
+- [x] 03. Object & Array
 - [ ] 04. Looping & Array Methods
 - [ ] 05. Destructuring & Spread
 - [ ] 06. ES Modules
