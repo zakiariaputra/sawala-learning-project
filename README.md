@@ -24,8 +24,8 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 
 ## Progress
 
-- [x] 01. Variabel & Tipe Data &emsp;&emsp;# Minggu 1-2
-- [ ] 02. Kondisi & Function
+- [x] 01. Variabel & Tipe Data &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Minggu 1-2
+- [x] 02. Kondisi & Function
 - [ ] 03. Object & Array
 - [ ] 04. Looping & Array Methods
 - [ ] 05. Destructuring & Spread
@@ -37,5 +37,5 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 Tiap folder berisi file yang bisa langsung dijalankan pakai Node.js:
 
 ```bash
-node namafolder/index.js
+node namafolder/namaFile.js
 ```
