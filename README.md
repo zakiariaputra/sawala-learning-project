@@ -28,7 +28,7 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 - [x] 02. Kondisi & Function
 - [x] 03. Object & Array
 - [x] 04. Looping & Array Methods
-- [ ] 05. Destructuring & Spread
+- [x] 05. Destructuring & Spread
 - [ ] 06. ES Modules
 - [ ] Mini Project: Produk List
 
