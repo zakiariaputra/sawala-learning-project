@@ -31,6 +31,11 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 - [x] 05. Destructuring & Spread
 - [x] 06. ES Modules
 - [ ] Mini Project: Produk List
+- [x] 12. Next.js App Router & Routing &emsp;&emsp;&emsp;&emsp;&emsp;# Minggu 9-10
+- [x] 13. Server Component vs Client Component & Data Fetching
+- [x] 14. Atomic Design (atoms / molecules / organisms)
+- [x] 15. Integrasi Strapi (content type & REST API) & Environment Variable
+- [x] Final Project: Aplikasi Artikel (Next.js + Strapi)
 
 ## Cara Menjalankan
 
@@ -39,3 +44,21 @@ Tiap folder berisi file yang bisa langsung dijalankan pakai Node.js:
 ```bash
 node namafolder/namaFile.js
 ```
+
+Final project Milestone 5 memakai dua service, jalankan di dua terminal:
+
+```bash
+# Terminal 1 - backend Strapi (CMS, butuh MySQL XAMPP aktif)
+cd 05-nextjs-strapi-final-project/backend-strapi
+npm install
+npm run develop
+```
+
+```bash
+# Terminal 2 - frontend Next.js (tampilan artikel)
+cd 05-nextjs-strapi-final-project/frontend-nextjs
+npm install
+npm run dev
+```
+
+Buka `http://localhost:3000` untuk melihat daftar artikel. Detail setup ada di README masing-masing folder.
