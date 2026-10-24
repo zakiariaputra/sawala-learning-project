@@ -24,17 +24,37 @@ Milestone 5 dipecah jadi `frontend-nextjs/` dan `backend-strapi/` karena final p
 
 ## Progress
 
-- [x] 01. Variabel & Tipe Data &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Minggu 1-2
+### 01. JavaScript Fundamentals (Minggu 1-2)
+- [x] 01. Variabel & Tipe Data
 - [x] 02. Kondisi & Function
 - [x] 03. Object & Array
 - [x] 04. Looping & Array Methods
 - [x] 05. Destructuring & Spread
 - [x] 06. ES Modules
-- [ ] Mini Project: Produk List
-- [x] 12. Next.js App Router & Routing &emsp;&emsp;&emsp;&emsp;&emsp;# Minggu 9-10
-- [x] 13. Server Component vs Client Component & Data Fetching
-- [x] 14. Atomic Design (atoms / molecules / organisms)
-- [x] 15. Integrasi Strapi (content type & REST API) & Environment Variable
+- [x] Mini Exercise: Kalkulator Sederhana
+- [x] Mini Exercise: Pengolahan Data Siswa
+- [x] Mini Project: Produk List
+
+### 02. Async JS, API & TypeScript (Minggu 3-4)
+- [x] 01. Promise & Async/Await
+- [x] 02. Fetch API
+- [x] 03. Error Handling
+- [x] 04. TypeScript Basic
+- [x] Mini Project: Consume API
+
+### 03. Node.js Fundamentals (Minggu 5-6)
+- [x] 01. Module System
+- [x] 02. NPM & package.json
+- [x] Mini Project: REST API
+
+### 04. React Fundamentals (Minggu 7-8)
+- [x] Mini Project: React Dashboard
+
+### 05. Next.js, Atomic Component & Integrasi Fullstack (Minggu 9-10)
+- [x] 01. Next.js App Router & Routing
+- [x] 02. Server Component vs Client Component & Data Fetching
+- [x] 03. Atomic Design (atoms / molecules / organisms)
+- [x] 04. Integrasi Strapi (content type & REST API) & Environment Variable
 - [x] Final Project: Aplikasi Artikel (Next.js + Strapi)
 
 ## Cara Menjalankan
